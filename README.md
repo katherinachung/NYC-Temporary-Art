@@ -1,1 +1,3 @@
 # NYC-Temporary-Art
+
+#The NYC DOT (New York City Department of Transportation) has programmed over 350 temporary public art installations citywide and supported varying unique public art installations collaborating with a diverse body of artists and partner organizations. Artworks of temporary public art are intended to occupy a place presencing in the public realm for a finite time(about 11 months), which transforming sidewalks, fences, triangles, medians, bridges, jersey barriers, step streets, public plazas, and pedestrianized spaces into canvases and foundations for colorful murals, dynamic projections and eye-catching sculptures installed by artists in partnership with community based-nonprofit organizations. 
