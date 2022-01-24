@@ -1,4 +1,4 @@
-# NYC-Temporary-Art
+# NYC Temporary Art
 
 [public art](https://user-images.githubusercontent.com/25216417/150772075-37c5a91d-0ef1-43c4-bb84-745cccfd4d2c.jpg)
 
